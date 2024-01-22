@@ -5,3 +5,5 @@ The main aim of the project is to learn and implement server side API requests a
 <br>
 <br>
 The Node server throughs a random function function from an API meanwhile, takes input from the frontend in the form of dropdown and updates the output.
+<br>
+The site is live at [https://i-07t0.onrender.com](https://i-07t0.onrender.com).
